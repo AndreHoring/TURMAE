@@ -1,2 +1,2 @@
 # TURMAE
-estou cmoeçando a criar um site  
+estou começando a criar um site  
